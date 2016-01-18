@@ -1,0 +1,13 @@
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Desktop:ssss.4dbase:Components:TRASH.4dbase:TRASH[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:Desktop:ssss.4dbase:Components:TRASH.4dbase:TRASH[0000].4BL
+Scheduled : 11.09.22 12:18:15
+Starting : 11.09.22 12:18:15
+Ending : 11.09.22 12:18:16
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Desktop:CLEAN.4dbase:Components:TRASH.4dbase:TRASH[0001].4BK
+Scheduled : 11.09.22 15:35:07
+Starting : 11.09.22 15:35:07
+Ending : 11.09.22 15:35:07
+
